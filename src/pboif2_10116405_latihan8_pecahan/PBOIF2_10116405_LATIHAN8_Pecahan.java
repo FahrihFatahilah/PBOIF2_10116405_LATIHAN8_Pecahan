@@ -4,10 +4,13 @@
  * and open the template in the editor.
  */
 package pboif2_10116405_latihan8_pecahan;
-
 /**
  *
- * @author Agaaam
+ * @author Fahrih Fatahilah
+ * Nama  : Fahrih Fatahilah
+ * Kelas : IF-2 / PBO-IF2
+ * Nim   : 10116405
+ * 
  */
 public class PBOIF2_10116405_LATIHAN8_Pecahan {
 
